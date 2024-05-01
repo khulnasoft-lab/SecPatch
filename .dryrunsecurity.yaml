@@ -1,0 +1,15 @@
+sensitiveCodepaths:
+  # Files only allowed authors can modify
+  # - 'app.js'
+  # - 'controllers/**/*.js'
+allowedAuthors:
+  usernames:
+    # GitHub username
+    - khulnasoft
+    - khulnasoft-lab
+    - nxpkg
+    - gitworkflows
+    - fortishield
+notificationList:
+  # GitHub username or team name
+  - '@nxpkg'
