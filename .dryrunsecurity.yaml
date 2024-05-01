@@ -12,4 +12,4 @@ allowedAuthors:
     - fortishield
 notificationList:
   # GitHub username or team name
-  - '@nxpkg'
+  - '@khulnasoft-bot'
