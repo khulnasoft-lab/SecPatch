@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Patchthis.app"
+title                    : "Khulnasoft.com"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Jerry Gamblin"
+name                     : "KhulnaSoft Lab"
 description              : "CVEs You Should Be Patching."
 url                      : "https://khulnasoft-lab.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jerry Gamblin"
+  name             : "KhulnaSoft Lab"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : 
@@ -115,7 +115,7 @@ author:
       url: "mailto:jerry.gamblin@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://jerrygamblin.com"
+      url: "https://khulnasoft.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/khulnasoft-lab"
@@ -128,7 +128,7 @@ footer:
       url: "https://github.com/khulnasoft-lab/secpatch"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://jerrygamblin.com"
+      url: "https://khulnasoft.com"
 
 
 # Reading Files
