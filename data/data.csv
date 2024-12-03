@@ -4,7 +4,6 @@ CVE-1999-0170,0.0,0.00727,"Remote attackers can mount an NFS file system in Ultr
 CVE-1999-0191,0.0,0.96782,IIS newdsn.exe CGI script allows remote users to overwrite files.,1997-09-01 04:00:00.000,EPSS
 CVE-1999-0209,0.0,0.55777,The SunView (SunTools) selection_svc facility allows remote users to read files.,1990-08-14 04:00:00.000,Metasploit
 CVE-1999-0256,0.0,0.96207,Buffer overflow in War FTP allows remote execution of commands.,1998-02-01 05:00:00.000,EPSS
-CVE-1999-0526,0.0,0.80735,"An X server's access control is disabled (e.g. through an ""xhost +"" command) and allows anyone to connect to the server.",1997-07-01 04:00:00.000,Metasploit
 CVE-1999-0531,0.0,0.03276,"Rejected reason: DO NOT USE THIS CANDIDATE NUMBER.  ConsultIDs: None.  Reason: this candidate is solely about a configuration that does not directly introduce security vulnerabilities, so it is more appropriate to cover under the Common Configuration Enumeration (CCE).  Notes: the former description is: ""An SMTP service supports EXPN, VRFY, HELP, ESMTP, and/or EHLO.",1999-01-01 05:00:00.000,Metasploit
 CVE-1999-0532,0.0,0.97542,A DNS server allows zone transfers.,1997-07-01 04:00:00.000,EPSS/Metasploit
 CVE-1999-0554,0.0,0.015,"NFS exports system-critical data to the world, e.g. / or a password file.",1999-01-01 05:00:00.000,Metasploit
