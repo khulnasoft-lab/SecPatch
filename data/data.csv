@@ -5220,7 +5220,7 @@ CVE-2023-21492,4.4,0.0015,Kernel pointers are printed in the log file prior to S
 CVE-2023-21554,9.8,0.17824,Microsoft Message Queuing (MSMQ) Remote Code Execution Vulnerability,2023-04-11 21:15:15.597,Metasploit
 CVE-2023-21608,7.8,0.03957,"Adobe Acrobat Reader versions 22.003.20282 (and earlier), 22.003.20281 (and earlier) and 20.005.30418 (and earlier) are affected by a Use After Free vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.",2023-01-18 19:15:11.877,CISA
 CVE-2023-21674,8.8,0.00208,Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability,2023-01-10 22:15:16.307,CISA
-CVE-2023-21715,7.3,0.00173,Microsoft Publisher Security Features Bypass Vulnerability,2023-02-14 20:15:14.280,CISA
+CVE-2023-21715,7.3,0.00173,Microsoft Publisher Security Feature Bypass Vulnerability,2023-02-14 20:15:14.280,CISA
 CVE-2023-21768,7.8,0.00181,Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability,2023-01-10 22:15:19.367,Metasploit
 CVE-2023-2178,4.8,0.00143,"The Aajoda Testimonials WordPress plugin before 2.2.2 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup).",2023-06-27 14:15:10.540,Nuclei
 CVE-2023-21823,7.8,0.55015,Windows Graphics Component Remote Code Execution Vulnerability,2023-02-14 21:15:12.297,CISA
