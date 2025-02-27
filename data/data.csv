@@ -6212,7 +6212,7 @@ CVE-2024-1210,5.3,0.10776,"The LearnDash LMS plugin for WordPress is vulnerable 
 CVE-2024-1212,10.0,0.93714,"Unauthenticated remote attackers can access the system through the LoadMaster management interface, enabling arbitrary system command execution.
 
 
-",2024-02-21 18:15:50.417,CISA/Nuclei
+",2024-02-21 18:15:50.417,CISA/Metasploit/Nuclei
 CVE-2024-12209,9.8,0.02909,"The WP Umbrella: Update Backup Restore & Monitoring plugin for WordPress is vulnerable to Local File Inclusion in all versions up to, and including, 2.17.0 via the 'filename' parameter of the 'umbrella-restore' action. This makes it possible for unauthenticated attackers to include and execute arbitrary files on the server, allowing the execution of any PHP code in those files. This can be used to bypass access controls, obtain sensitive data, or achieve code execution in cases where images and other “safe” file types can be uploaded and included.",2024-12-08 06:15:04.823,Nuclei
 CVE-2024-12356,9.8,0.87684,A critical vulnerability has been discovered in Privileged Remote Access (PRA) and Remote Support (RS) products which can allow an unauthenticated attacker to inject commands that are run as a site user.,2024-12-17 05:15:06.413,CISA/Metasploit
 CVE-2024-12686,6.6,0.05454,A vulnerability has been discovered in Privileged Remote Access (PRA) and Remote Support (RS) which can allow an attacker with existing administrative privileges to inject commands and run as a site user.,2024-12-18 21:15:08.020,CISA
