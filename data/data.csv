@@ -5918,7 +5918,7 @@ CVE-2024-27348,9.8,0.93863,"RCE-Remote Command Execution vulnerability in Apache
 
 Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth system, which fixes the issue.",2024-04-22 14:15:07.420,CISA/Metasploit/Nuclei
 CVE-2024-27497,8.8,0.55444,Linksys E2000 Ver.1.0.06 build 1 is vulnerable to authentication bypass via the position.js file.,2024-03-01 15:15:08.580,Nuclei
-CVE-2024-27564,6.5,0.79043,A Server-Side Request Forgery (SSRF) in pictureproxy.php of ChatGPT commit f9f4bbc allows attackers to force the application to make arbitrary requests via injection of crafted URLs into the urlparameter.,2024-03-05 17:15:06.997,Nuclei
+CVE-2024-27564,5.8,0.79043,"pictureproxy.php in the dirk1983 mm1.ltd source code f9f4bbc allows SSRF via the url parameter. NOTE: the references section has an archived copy of pictureproxy.php from its original GitHub location, but the repository name might later change because it is misleading.",2024-03-05 17:15:06.997,Nuclei
 CVE-2024-27718,7.8,0.08985,SQL Injection vulnerability in Baizhuo Network Smart s200 Management Platform v.S200 allows a local attacker to obtain sensitive information and escalate privileges via the /importexport.php component.,2024-03-05 00:15:52.507,Nuclei
 CVE-2024-27954,9.3,0.92039,"Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in WP Automatic Automatic allows Path Traversal, Server Side Request Forgery.This issue affects Automatic: from n/a through 3.92.0.",2024-05-17 09:15:26.810,Nuclei
 CVE-2024-27956,9.9,0.91998,"Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in ValvePress Automatic allows SQL Injection.This issue affects Automatic: from n/a through 3.92.0.
